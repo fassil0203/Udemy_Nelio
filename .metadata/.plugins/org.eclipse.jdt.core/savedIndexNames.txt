@@ -15,9 +15,11 @@ INDEX VERSION 1.134+C:\Users\Rafael\Desktop\Cursos Treinamentos\Revisao II\.meta
 1176209769.index
 2170852047.index
 3273110757.index
+3389104625.index
 2103668617.index
 1159191850.index
 171521544.index
 1865797976.index
 1665397719.index
+1656751076.index
 1747874224.index
